@@ -1,0 +1,201 @@
+.nav-item .dropdown-toggle {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+.nav-item {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.6875rem;
+  padding-left: 0.75rem;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: black;
+}
+.navbar-expand-lg .navbar-nav .nav-link i {
+  padding-left: 1.535rem;
+}
+/* Start Section-header */
+#section-header {
+  padding-top: 100px;
+}
+#section-header h1 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 70px;
+  color: black;
+}
+#section-header span {
+  color: #FF4E27;
+  opacity: 100%;
+}
+#section-header p {
+  color: black;
+  opacity: 87%;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  line-height: 31.2px;
+  padding-top: 10px;
+}
+/* End Section-header */
+/* Start Our Process */
+#our-process{
+  margin-top: 50px;
+  padding-top: 35px;
+  background-color: #F6F6F6;
+}
+#our-process .section-header h1{
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 80px;
+}
+#our-process .section-header p {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-size: 26px;
+  line-height: 31.2px;
+  opacity: 87%;
+  padding-top: 10px;
+  
+}
+#our-process .box h2 {
+  color: #FF4E27;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height:38.4px;
+}
+#our-process .box p {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 19.2px;
+  opacity: 87%;
+  padding-top: 10px;
+}
+
+.last-box {
+  padding-bottom: 200px;
+}
+@media(max-width:992px){
+  #our-process .row {
+    justify-content: space-between !important;
+
+  }
+
+}
+/* End Our Process */
+/* Start Footer */
+#footer {
+  background-color: rgba(0, 0, 0, 0.87);
+  
+}
+#footer .container{
+  padding-top: 43px;
+}
+#footer .content h5 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21.6px;
+  color: white;
+  Align: Left;
+  
+
+}
+#footer .content p {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  line-height: 21.82px;
+  color: #777;
+  margin: 0;
+  font-size: 16px;
+}
+#footer .content p img {
+  position: relative;
+  left: -20px;
+}
+#footer .content h6 {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 19.2px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+#footer .content ul {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 0;
+  list-style: none;
+  padding-bottom: 50px;
+}
+#footer .content ul li {
+  padding-left: 33px;
+  color: white;
+}
+#footer .content ul li:first-child {
+  padding-left: 0 ;
+}
+#footer .sec-c h5{
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21.6px;
+  color: white;
+}
+#footer .sec-c p{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  line-height: 21.82px;
+  color: #777;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+#footer .th-c h5{
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21.6px;
+  color: white;
+}
+#footer .th-c p{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  line-height: 21.82px;
+  color: #777;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+#footer .ft-c p{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  line-height: 21.82px;
+  color: #777;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+#footer .ftr p {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  line-height: 21.82px;
+  color: #777;
+  margin-bottom: 15px;
+  font-size: 16px;
+  
+}
+
+/* End Footer */
